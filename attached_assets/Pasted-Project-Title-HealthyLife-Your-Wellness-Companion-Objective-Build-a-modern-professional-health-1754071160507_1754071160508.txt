@@ -1,0 +1,69 @@
+Project Title: HealthyLife – Your Wellness Companion
+
+Objective: Build a modern, professional health-related website called HealthyLife, focused on wellness, fitness, and medical awareness. The site should have advanced frontend features for a highly interactive and smooth user experience.
+
+🔧 Website Requirements
+Loader Page:
+
+Display a full-screen animated loader with the website’s logo and a health-themed animation (e.g., heartbeat or pulse animation).
+
+Loader should fade out smoothly after 2-3 seconds.
+
+Navigation Bar (Navbar):
+
+Sticky navigation bar with logo on the left and links to: Home, Services, Doctors, Tips, Contact.
+
+Hamburger menu for mobile view with smooth slide-out transition.
+
+Hero Section with Text Animation:
+
+Animated text headline like: "Empowering Your Health Journey", with typewriter or fade-in animation.
+
+Background: Subtle video or gradient animation.
+
+Image Hover Effects:
+
+Grid section showing various health services (e.g., Nutrition, Cardio Care, Mental Health).
+
+On hover: Zoom-in effect with overlay text + slight shadow lift.
+
+Image Grid Section:
+
+Display a responsive grid of doctor/team images or health-related visuals.
+
+Use CSS grid or Flexbox for responsiveness across devices.
+
+Page Transition Effects:
+
+Smooth fade or slide transitions between internal pages (use JS or CSS transitions).
+
+Avoid jarring reloads.
+
+Ripple Button Effect:
+
+All buttons (e.g., "Book Appointment", "Know More") should have a material design ripple effect on click.
+
+Professional Fonts and Color Palette:
+
+Fonts: Use Poppins or Open Sans for clean readability.
+
+Colors: Soothing palette with greens, blues, and white tones.
+
+Responsive Design:
+
+Fully mobile-friendly with media queries and responsive layout.
+
+Bonus (Optional):
+
+Testimonials carousel.
+
+Newsletter sign-up.
+
+Footer with social media icons and quick links.
+
+🧠 Tech Stack Suggestion
+HTML5, CSS3, JavaScript (Vanilla or GSAP for animation)
+
+Optionally use Tailwind CSS or Bootstrap for faster layout.
+
+Use anime.js, AOS, or Locomotive Scroll for animation effects.
